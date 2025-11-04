@@ -62,12 +62,11 @@ After cleaning, the dataset was explored to understand **sales patterns, propert
 <br><br>
 
 ### 🌆 3. City-Level Insights
-- **Nashville dominates** in total sales with ~40,000 properties sold, far ahead of Antioch (6,200) and Hermitage (3,126), indicating it’s the central hub of real estate activity.  
-- Average sale prices vary significantly: **Nashville ($366K)**, **Brentwood ($312K)**, and **Goodlettsville ($290K)**, highlighting high-value markets outside the core city.  
-- Building value peaks in **Brentwood ($311K)** while Nashville averages $190K. Goodlettsville ($118K) and other mid-tier cities show moderate building values ($77K–$118K), reflecting varying market tiers.  
-- Land values are highest in **Brentwood ($152K)**, Nashville ($78K), and Old Hickory ($35K), followed by other surrounding cities (e.g., Goodlettsville, Hermitage) with moderately strong land value markets.  
+- **Nashville dominates** in total sales with ~40,000 properties sold, far ahead of Antioch (6,200) and Hermitage (3,126), indicating it’s the central hub of real estate activity.
+- Average sale prices vary significantly: **Nashville ($366K)**, **Brentwood ($312K)**, and **Goodlettsville ($290K)**, highlighting high-value markets outside the core city.
+- Building value peaks in **Brentwood ($311K)** while Nashville averages $190K. Goodlettsville ($118K) and other mid-tier cities show moderate building values ($77K–$118K), reflecting varying market tiers.
+- Land values are highest in **Brentwood ($152K)**, Nashville ($78K), and Old Hickory ($35K), followed by other surrounding cities (e.g., Goodlettsville, Hermitage) with moderately strong land value markets.
 - Price per acreage shows that **Nashville ($1,080,000)** and **Old Hickory ($675,000)** lead, followed by **Brentwood ($580,000)**, suggesting premium property scarcity and high land demand in these areas.
-
 - *Note: Some smaller cities (e.g., Nolensville, Mount Juliet) have very few sales, which may skew average building or land values. We may want to interpret those figures cautiously.*
 
 📌 **Takeaway:** Real estate activity and value are heavily concentrated in Nashville and select surrounding cities (e.g. Goodlettsville, Brentwood), signaling where investment focus, pricing strategy, and marketing efforts may yield the strongest returns.
