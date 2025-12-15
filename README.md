@@ -71,12 +71,12 @@ After cleaning, the dataset was explored to understand **sales patterns, propert
 
 ### 🌆 3. City-Level Insights
 
-#### 🏙️ Market Activity (Volume of Sales)
+#### A. Market Activity (Volume of Sales)
 - Nashville leads significantly with ~40,000 property sales.
 - Antioch (~6,200) and Hermitage (~3,126) form secondary market clusters.
 → Indicates Nashville is the primary real estate activity hub in the region.
 
-#### 💵 Average Sale Price (Market Value Index)
+#### B. Average Sale Price (Market Value Index)
 | City | Avg Sale Price |
 |---|---|
 | Nashville | $366K |
@@ -85,14 +85,14 @@ After cleaning, the dataset was explored to understand **sales patterns, propert
 
 → Suburban cities hold **competitive pricing bands** outside the core region (Nashville).
 
-#### 🏗️ Building Value (Construction & Structural Investment)
+#### C. Building Value (Construction & Structural Investment)
 - Brentwood stands at the highest building value tier (~$311K).
 - Nashville follows at a mid-high tier (~$190K).
 - Cities like Goodlettsville and Hermitage range from $77K–$118K, forming the mid-market segment.
 
 → Indicates a clear **tiered housing investment landscape**, from premium developments to more moderately built residential areas.
 
-#### 🌱 Land Value (Pure Lot Valuation)
+#### D. Land Value (Pure Lot Valuation)
 | City | Avg Land Value |
 |---|---|
 | Brentwood | $152K |
@@ -101,7 +101,7 @@ After cleaning, the dataset was explored to understand **sales patterns, propert
 
 → Land scarcity and demand are **strongest in Brentwood and Nashville**.
 
-#### 🌍 Price per Acre (Land Scarcity & Premium Index)
+#### E. Price per Acre (Land Scarcity & Premium Index)
 | City | Price per Acre |
 |---|---|
 | Nashville | $1,080,000 |
@@ -116,12 +116,12 @@ After cleaning, the dataset was explored to understand **sales patterns, propert
 
 ### 🧱 4. Property Characteristics
 
-#### 🕒 Property Age & Sale Price
+#### A. Property Age & Sale Price
 - New homes (0 years): highest sale price (~$440K).
 - Majority of sales come from homes aged 50–65 years → core housing stock.
 - Very old homes (100+ years): niche/historical market.
 
-#### 🚪 Vacancy Status
+#### B. Vacancy Status
 - Non-vacant homes dominate sales (~51K vs ~4.6K vacant).
 - Non-vacant homes sell at slightly higher prices → move-in-ready is more attractive.
 
